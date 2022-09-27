@@ -9,6 +9,7 @@ body {
     height: 500px;
     background-position: right center;
     background-size: cover;
+    border-top: 1px solid transparent;
 }
 
 .hero-content {
@@ -20,6 +21,34 @@ body {
     text-transform: uppercase;
     font-size: 46px;
     text-shadow: 3px 3px 2px #ccc;
+}
+
+.hero nav ul {
+    text-align: right;
+    margin: 20px 50px 0 0;
+}
+
+.hero nav li {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid white;
+}
+
+.hero nav a {
+    background: rgba(0, 0, 0, 0.3);
+    transition: 1s;
+    display: block;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.hero nav a:hover {
+    background: rgba(0, 0, 0, 0.5);
+    transition: 1s;
 }
 
 main {
@@ -52,3 +81,4 @@ main {
     background: #6b6c68;
     line-height: 80px;
 }
+
