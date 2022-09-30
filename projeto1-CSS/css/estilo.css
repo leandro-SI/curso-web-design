@@ -84,6 +84,16 @@ main {
 
 .card img {
     width: 100%;
+    display: block;
+}
+
+.card p {
+    background-color: #393535;
+    color: white;
+    margin: 0;
+    padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .content-header {
