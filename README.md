@@ -21,3 +21,10 @@
 
 <img src="./projeto1-CSS/concluido.png" ></img>
 
+<br>
+<hr>
+
+<h2>Project Fashion:</h2>
+
+<img src="./projeto2-Fashion/concluidos/01.png" ></img>
+<img style="margin-top:-20px;" src="./projeto2-Fashion/concluidos/02.png" ></img>
